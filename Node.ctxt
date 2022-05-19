@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\ The\ implementation\ of\ a\ linked\ list\r\n\ Reference\:\ Java\:\ How\ To\ Program\ (Deitel\ &\ Deitel)\r\n\ author\ \:\ muhd\ wasim\r\n
+comment1.params=obj
+comment1.target=Node(java.lang.Object)
+comment2.params=o\ nextNode
+comment2.target=Node(java.lang.Object,\ Node)
+comment3.params=
+comment3.target=java.lang.Object\ getObject()
+comment4.params=
+comment4.target=Node\ getNext()
+numComments=5
